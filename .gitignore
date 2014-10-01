@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+Export/
+documentation/pages/
+haxedoc.xml
+out/
